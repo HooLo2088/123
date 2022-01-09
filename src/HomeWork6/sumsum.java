@@ -1,4 +1,4 @@
-package lessons9;
+package HomeWork6;
 
 public class sumsum extends cal{
     public void sum(String parm, int a, int b) {
@@ -6,6 +6,6 @@ public class sumsum extends cal{
     }
     @Override
     public void minus(int a, int b){
-        System.out.println((a*b) + " решил умножить");
+        System.out.println((a*b) + " - решил умножить");
     }
 }
