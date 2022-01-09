@@ -1,4 +1,4 @@
 package HomeWork8;
 
-public class Exception extends RuntimeException{
+public class NoCardException extends RuntimeException{
 }
