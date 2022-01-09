@@ -1,4 +1,4 @@
-package lessons9;
+package HomeWork6;
 
 public class calculator {
     public static void main(String[] args) {
