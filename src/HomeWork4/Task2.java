@@ -1,7 +1,6 @@
-package lessons4;
+package HomeWork4;
 
 import java.util.Random;
-import java.util.RandomAccess;
 
 public class Task2 {
     public static void main(String[] args) {

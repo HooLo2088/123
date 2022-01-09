@@ -1,6 +1,5 @@
-package lessons4;
+package HomeWork4;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Random;
 
@@ -14,8 +13,8 @@ public class Task3 {
             arr[i] = value();
         }
 
-        for (int i = 0; i < arr.length; i++) {
-            sum += arr[i];
+        for (int j : arr) {
+            sum += j;
         }
 
         System.out.println(Arrays.toString(arr));
